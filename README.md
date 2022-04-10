@@ -50,7 +50,7 @@ Select the appropriate spreadsheet and worksheet then click on “add” button 
 
 ![1_EzWlJmMt7o1VUdG7S0f7gA (1)](https://user-images.githubusercontent.com/58033364/107148125-e3cc0c00-6951-11eb-8172-fd44642745ad.png)
 
-Create an output of this format or design your best dashboards using the available dataset.
+Create an output of this format or design your best dashboards using the available dataset. Thank you.
 
 ![1_Q-MN8GSMbfHNxeMtNkHeMw (1)](https://user-images.githubusercontent.com/58033364/107148160-1970f500-6952-11eb-9758-aa2e87138c04.png)
 
